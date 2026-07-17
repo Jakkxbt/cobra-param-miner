@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+proofs/
+*.log
+.DS_Store
