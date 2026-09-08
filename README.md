@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="CobraSEC · Red Arsenal · param-miner" width="100%">
+</p>
+
 # param-miner
 
 Find **hidden / unlinked HTTP parameters** an endpoint secretly accepts (arjun-style).
